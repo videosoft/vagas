@@ -47,5 +47,5 @@
 - Contrato CLT
 - Remoto ou Presencial 
 
-## Sobre a Empresa / Benefícios a como se candidatar
+## Sobre a Empresa / Benefícios / Como se candidatar
 Acesse [Videosoft Vagas](../)
