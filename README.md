@@ -38,4 +38,4 @@ Enviar e-mail para **talentos@videosoft.com.br** com:
 - Link do github (caso vagas para desenvolvedores)
 
 ## Vagas 
-- [Desenvolvedor(a) FullStack JS](/dev-full-js)
+- [Desenvolvedor(a) FullStack JS](./dev-full-js)
